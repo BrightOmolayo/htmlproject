@@ -2,3 +2,6 @@ body{
     background-color:rgb(172, 218, 179) ;
     text-align: center;
 }
+li{
+    list-style: none;
+}
