@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(197, 233, 233);
+}
+footer{
+    background-color: rgb(4, 22, 7);
+    height:200px;
+    padding-top: 13%;
+    text-align: center;
+    color: aliceblue;
+}
+header{
+    width: 100%;
+    height: 398px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+li{
+    list-style: none;
+}
+a{
+    color: #0c2402;
+    text-decoration: none; 
+}
+h1{
+    color: #0c2402;
+}
