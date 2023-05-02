@@ -5,3 +5,7 @@ body{
 li{
     list-style: none;
 }
+img{
+    border: 2px solid rgb(4, 22, 7);
+    border-radius: 184px;
+}
